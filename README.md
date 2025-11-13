@@ -34,7 +34,7 @@
 🤝 팀원 및 역할
 이름	학번	역할	담당 기능
 
-👤박상우	20학번	Backend Lead	데이터베이스 설계 및 관리 (DB)
+👤박상우	20학번	Backend Lead	데이터베이스 설계 및 관리 (DB), CI / CD
 
 👤박상우	21학번	Backend Developer	로그인 및 사용자 인증 구현
 
